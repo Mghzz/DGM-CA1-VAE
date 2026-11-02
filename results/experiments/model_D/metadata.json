@@ -1,0 +1,30 @@
+{
+  "model_type": "D",
+  "best_epoch": 99,
+  "total_epochs": 100,
+  "stopped_early": false,
+  "best_val_loss": 9.233123207092286,
+  "best_val_recon": 3.907846302456326,
+  "best_val_kl": 5.325276947021484,
+  "elapsed_time_sec": 13.55,
+  "peak_allocated_mb": 33.21,
+  "peak_reserved_mb": 36.0,
+  "device": "cuda:0",
+  "gpu_name": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "training_seed": 42,
+  "val_eval_seed": 999,
+  "lr": 0.001,
+  "batch_size": 256,
+  "max_epochs": 100,
+  "patience": 15,
+  "likelihood_sigma": 0.3,
+  "checkpoint_path": "D:\\UT\\t7\\DGM\\HWs\\1\\checkpoints\\model_D_best.pt",
+  "verification": {
+    "verified": true,
+    "checkpoint_path": "D:\\UT\\t7\\DGM\\HWs\\1\\checkpoints\\model_D_best.pt",
+    "saved_epoch": 99,
+    "saved_val_loss": 9.233123207092286,
+    "learnable_prior_verified": true,
+    "fixed_prior_verified": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "data_space_bandwidth": 6.424960411663797,
+  "latent_space_bandwidth": 1.6704245699550107,
+  "data_subsample_size": 600,
+  "latent_subsample_size": 600,
+  "bandwidth_seed": 42,
+  "subsample_rule": "Deterministic slice [0:600]"
+}

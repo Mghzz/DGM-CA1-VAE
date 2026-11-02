@@ -1,0 +1,14 @@
+{
+  "pca_components": 2,
+  "explained_variance_ratio": [
+    0.2342793345451355,
+    0.1919620931148529
+  ],
+  "total_explained_variance_pct": 42.62,
+  "source_figure_path": "D:\\UT\\t7\\DGM\\HWs\\1\\results\\figures\\source_2d_scatter.png",
+  "pca_figure_path": "D:\\UT\\t7\\DGM\\HWs\\1\\results\\figures\\train_pca_2d_scatter.png",
+  "saved_pca_paths": [
+    "D:\\UT\\t7\\DGM\\HWs\\1\\results\\metrics\\fitted_pca.joblib",
+    "D:\\UT\\t7\\DGM\\HWs\\1\\checkpoints\\fitted_pca.joblib"
+  ]
+}

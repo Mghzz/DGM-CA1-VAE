@@ -1,0 +1,57 @@
+{
+  "status": "PASSED",
+  "split_sizes": {
+    "train": 6720,
+    "validation": 1440,
+    "test": 1440,
+    "total": 9600
+  },
+  "dimensions": {
+    "observation_dim": 20,
+    "latent_source_dim": 2,
+    "n_clusters": 8
+  },
+  "cluster_counts": {
+    "train": {
+      "0": 831,
+      "1": 855,
+      "2": 851,
+      "3": 850,
+      "4": 827,
+      "5": 831,
+      "6": 837,
+      "7": 838
+    },
+    "validation": {
+      "0": 189,
+      "1": 169,
+      "2": 183,
+      "3": 179,
+      "4": 176,
+      "5": 180,
+      "6": 192,
+      "7": 172
+    },
+    "test": {
+      "0": 180,
+      "1": 176,
+      "2": 166,
+      "3": 171,
+      "4": 197,
+      "5": 189,
+      "6": 171,
+      "7": 190
+    }
+  },
+  "source_alignment": {
+    "mean_distance_to_center": 0.4414,
+    "max_distance_to_center": 1.5947,
+    "theoretical_expected_distance": 0.4387,
+    "alignment_valid": true
+  },
+  "normalization": {
+    "train_mean_abs_max": 6.041178949089954e-06,
+    "train_std_min": 0.9999989867210388,
+    "train_std_max": 1.0000008344650269
+  }
+}
